@@ -8,20 +8,16 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import dataset and print head,info of the dataset  
-2.check for null values   
-3.Import kmeans and fit it to the dataset    
-4.Plot the graph using elbow method    
-5.Print the predicted array    
-6.Plot the customer segments
+1.Import dataset and print head,info of the dataset    
+2.Import kmeans and fit it to the dataset    
+3.Plot the graph using elbow method      
+4.Plot the customer segment
 
 ## Program:
 ```
-/*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: Rishi chandran R
 RegisterNumber: 212223043005
-*/
 ```
 ```
 import pandas as pd
