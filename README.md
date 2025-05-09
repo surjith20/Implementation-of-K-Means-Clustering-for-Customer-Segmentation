@@ -64,12 +64,9 @@ plt.ylabel("Spending Score (1-100)")
 plt.show()
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/0f62a71a-8b65-4393-a300-2e46a887d7a6)
+![WhatsApp Image 2025-05-09 at 09 13 56_0ad3c11c](https://github.com/user-attachments/assets/6fdfee69-50bb-4519-b0d2-c24a3b2c39b9)
 ![image](https://github.com/user-attachments/assets/079a1e07-d452-4ab0-b429-6035e1304f6b)
 ![image](https://github.com/user-attachments/assets/f30c5291-b26d-4ec6-aa2c-d0eefec43544)
 ![WhatsApp Image 2025-05-09 at 09 05 08_9152f425](https://github.com/user-attachments/assets/8482516a-8223-4838-a727-c028aa1ba30c)
-
-![image](https://github.com/user-attachments/assets/364bdce6-9400-4f2e-9694-2c7f4670e86e)
-
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
