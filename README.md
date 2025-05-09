@@ -5,16 +5,15 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 ## Algorithm
-1.Import dataset and print head,info of the dataset  
-2.check for null values   
-3.Import kmeans and fit it to the dataset    
-4.Plot the graph using elbow method    
-5.Print the predicted array    
-6.Plot the customer segments    
+1.Import dataset and print head,info of the dataset    
+2.Import kmeans and fit it to the dataset    
+3.Plot the graph using elbow method      
+4.Plot the customer segment
 ## Program:
 ```
+Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: Surjith D
-RegisterNumber:212223043006
+RegisterNumber: 212223043006
 ```
 ```
 import pandas as pd
@@ -56,9 +55,8 @@ plt.ylabel("Spending Score (1-100)")
 plt.show()
 ```
 ## Output:
-![WhatsApp Image 2025-05-09 at 09 13 56_0ad3c11c](https://github.com/user-attachments/assets/6fdfee69-50bb-4519-b0d2-c24a3b2c39b9)
-![image](https://github.com/user-attachments/assets/079a1e07-d452-4ab0-b429-6035e1304f6b)
-![image](https://github.com/user-attachments/assets/f30c5291-b26d-4ec6-aa2c-d0eefec43544)
-![WhatsApp Image 2025-05-09 at 09 05 08_9152f425](https://github.com/user-attachments/assets/8482516a-8223-4838-a727-c028aa1ba30c)
+![Screenshot 2025-05-09 090617](https://github.com/user-attachments/assets/ffd4f4be-a978-4e29-9e7b-24469f242b47)
+![Screenshot 2025-05-09 090603](https://github.com/user-attachments/assets/b4d9cedf-f430-4215-9e06-abc680b06111)
+![Screenshot 2025-05-09 090540](https://github.com/user-attachments/assets/a15d1c34-3119-43c1-8500-20fc5f3907fc)
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
