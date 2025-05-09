@@ -13,7 +13,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 6.Plot the customer segments    
 ## Program:
 ```
-Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: Surjith D
 RegisterNumber:212223043006
 ```
